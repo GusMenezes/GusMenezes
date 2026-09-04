@@ -4,7 +4,6 @@
 
 ### Full-stack developer · SaaS · Automações · IA
 
-Construo produtos que conectam interfaces claras, backends robustos e integrações que funcionam em produção.
 
 <br />
 
